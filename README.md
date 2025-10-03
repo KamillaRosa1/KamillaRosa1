@@ -7,12 +7,6 @@
   </a>
 </p>
 
-### Minhas Estatísticas 📈
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamillaRosa1
-&show_icons=true&locale=pt-br&theme=transparent&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-</p>
 
 <!--
 **KamillaRosa1/KamillaRosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
