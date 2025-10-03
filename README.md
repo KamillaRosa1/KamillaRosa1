@@ -1,4 +1,4 @@
-### Minhas Linguagens
+### Minhas Linguagens 📝
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-### Minhas Estatísticas
+### Minhas Estatísticas 📈
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KamillaRosa1
@@ -19,7 +19,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
