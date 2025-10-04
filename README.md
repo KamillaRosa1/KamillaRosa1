@@ -1,5 +1,3 @@
-Repositório de perfil contendo projetos concluídos e organizados.
-
 ### Minhas Linguagens 📝
 
 <p align="left">
