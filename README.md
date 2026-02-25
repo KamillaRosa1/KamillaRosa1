@@ -12,10 +12,8 @@
 <br /><br />
 
 ### Profile Statistics
-<p align="center">
-  <img src="./repos_chart.png" width="400"/>
-  <img src="./language_chart.png" width="400"/>
-</p>
+<p><img src="./language_chart.png" width="700"/></p>
+<p><img src="./repos_chart.png"/></p>
 
 <!--
 **KamillaRosa1/KamillaRosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
