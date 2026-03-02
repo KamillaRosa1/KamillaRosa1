@@ -9,6 +9,7 @@
 <img align="left" alt="Kate" title="Kate" width="30px" style="padding-right: 10px;" src="https://kate-editor.org/images/kate-source-original.svg"/>
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Markdown" title="Markdown" width="30px" style="padding-right: 10px;" src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" />
+<img align="left" alt="Mermaid" title="Mermaid" width="30px" style="padding-right: 10px;" src="https://cdn.brandfetch.io/idgL4balW7/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1766083494606" />
 <br /><br />
 
 ### Profile Statistics
