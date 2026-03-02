@@ -13,7 +13,12 @@
 <br /><br />
 
 ### Profile Statistics
+
+#### Programming languages
 <p><img src="./language_chart.png" width="700"/></p>
+<br />
+
+#### Repository Distribution
 <p><img src="./repos_chart.png"/></p>
 
 <!--
