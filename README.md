@@ -14,12 +14,11 @@
 
 ### Profile Statistics
 
-#### Programming languages
+#### Programming languages 
 <p><img src="./src/language_chart.png" width="700"/></p>
-<br />
 
 #### Repository Distribution
-<p><img src="./src/repos_chart.png"/></p>
+<p><img src="./src/repos_chart.png" width="700"/></p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamillaRosa1/KamillaRosa1/output/github-contribution-grid-snake-dark.svg">
