@@ -15,11 +15,17 @@
 ### Profile Statistics
 
 #### Programming languages
-<p><img src="./language_chart.png" width="700"/></p>
+<p><img src="./src/language_chart.png" width="700"/></p>
 <br />
 
 #### Repository Distribution
-<p><img src="./repos_chart.png"/></p>
+<p><img src="./src/repos_chart.png"/></p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamillaRosa1/KamillaRosa1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamillaRosa1/KamillaRosa1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KamillaRosa1/KamillaRosa1/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **KamillaRosa1/KamillaRosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
