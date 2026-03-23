@@ -1,8 +1,8 @@
 ## Yo! 🙂
 
 ### Distros
-<img align="left" alt="Windows11" title="Windows11" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img align="left" alt="pop" title="pop" width="30px" style="padding-right: 10px;" src="https://static.wikia.nocookie.net/logopedia/images/4/47/Pop_OS_icon.svg"/>
+<!--<img align="left" alt="Windows11" title="Windows11" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />-->
+<img align="left" alt="pop!" title="pop!" width="30px" style="padding-right: 10px;" src="https://static.wikia.nocookie.net/logopedia/images/4/47/Pop_OS_icon.svg"/>
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <br /><br />
 
@@ -20,12 +20,12 @@
 ### Docs
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Mermaid" title="Mermaid" width="30px" style="padding-right: 10px;" src="https://cdn.brandfetch.io/idgL4balW7/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1766083494606" />
-<img align="left" alt="Markdown" title="Markdown" width="30px" style="padding-right: 10px;" src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" />
 <img align ="left" alt="Latex" title="Latex" width="30px" style="padding-right: 10px; "src="https://pandaqi.com/tutorials/writing/latex/icon.svg" />
 <br /><br />
 
 ### Hardware
 <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 
 <br /><br />
 ### Profile Statistics
