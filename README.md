@@ -9,7 +9,7 @@
 ### Development Tools
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="VS Code" title="VSCodium" width="30px" style="padding-right: 10px;" src="https://vscodium.com/img/codium_cnl.svg" />
+<img align="left" alt="VS Codium" title="VSCodium" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" />
 <img align="left" alt="Kate" title="Kate" width="30px" style="padding-right: 10px;" src="https://kate-editor.org/images/kate-source-original.svg"/>
 <img align="left" alt="Google Colab" title="Google Colab" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"/>
 <img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
