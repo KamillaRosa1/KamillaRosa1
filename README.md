@@ -2,8 +2,11 @@
 
 ### Distros
 <!--<img align="left" alt="Windows11" title="Windows11" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />-->
-<img align="left" alt="pop!" title="pop!" width="30px" style="padding-right: 10px;" src="https://static.wikia.nocookie.net/logopedia/images/4/47/Pop_OS_icon.svg"/>
+<img align="left" alt="LinuxMint" title="LinuxMint" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="pop!" title="pop!" width="30px" style="padding-right: 10px;" src="https://static.wikia.nocookie.net/logopedia/images/4/47/Pop_OS_icon.svg"/>
+<img align="left" alt="ArchLinux" title="ArchLinux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+          
 <br /><br />
 
 ### Development Tools
@@ -20,7 +23,8 @@
 ### Docs
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Mermaid" title="Mermaid" width="30px" style="padding-right: 10px;" src="https://cdn.brandfetch.io/idgL4balW7/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1766083494606" />
-<img align ="left" alt="Latex" title="Latex" width="30px" style="padding-right: 10px; "src="https://pandaqi.com/tutorials/writing/latex/icon.svg" />
+<img align ="left" alt="Latex" title="Latex" width="30px" style="padding-right: 10px;" src="https://pandaqi.com/tutorials/writing/latex/icon.svg" />
+<img align ="left" alt="GoogleDocs" title="GoogleDocs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 <br /><br />
 
 ### Hardware
