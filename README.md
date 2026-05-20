@@ -21,15 +21,15 @@
 <br /><br />
 
 ### Docs
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Mermaid" title="Mermaid" width="30px" style="padding-right: 10px;" src="https://cdn.brandfetch.io/idgL4balW7/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1766083494606" />
+<!--<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Mermaid" title="Mermaid" width="30px" style="padding-right: 10px;" src="https://cdn.brandfetch.io/idgL4balW7/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1766083494606" />-->
 <img align ="left" alt="Latex" title="Latex" width="30px" style="padding-right: 10px;" src="https://pandaqi.com/tutorials/writing/latex/icon.svg" />
 <img align ="left" alt="GoogleDocs" title="GoogleDocs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 <br /><br />
-
+<!--
 ### Hardware
 <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />-->
 
 <br /><br />
 ### Profile Statistics
